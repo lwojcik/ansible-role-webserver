@@ -1,0 +1,4 @@
+---
+fqdn: samplehost.tld
+cache_valid_time: 3600
+letsencrypt_email: sampleemail@example.org
